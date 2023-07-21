@@ -284,7 +284,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what i learn";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -454,6 +454,12 @@ section .title::after{
 .owl-dot.active,
 .owl-dot:hover{
     background: crimson!important;
+}
+.skillimg{
+    height: 300px;
+}
+.eduimg{
+    height: 150px;
 }
 
 /* contact section styling */
