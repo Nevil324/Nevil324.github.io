@@ -9651,8 +9651,8 @@ textarea.form-control {
   stroke-linecap: round; }
 .profilepic{
   border-radius: 10%;
-  /* width: 450px;
-  height: 550px; */
+  width: 450px;
+  height: 450px;
 
 }
 
